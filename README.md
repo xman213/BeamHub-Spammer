@@ -6,7 +6,7 @@ He sells free tools that are on github and says they are his.
 # Credits
 ```js
 zt#7380 ; https://github.com/x8g
-xman#111 ; https://github.com/x8g
+xman#1111 ; https://github.com/x8g
 ```
 # Requirements 
 ```
